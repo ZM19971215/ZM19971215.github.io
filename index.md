@@ -1,17 +1,4 @@
-<title>这里是赵敏的主页</title>
-<style type="text/css">
-body,td,th {
-    font-size: 16px;
-    color: #000;
-}
-</style>
-</head>
 
-<body>
-
-<body bgcolor="#FFC0CB">
-<center>
-  <font face=华文行楷 size=10>个人简历</font>
   <table cellpadding="0" cellspacing="0" border="1">
     <tr>
       <td width="64" height="33">姓名</td>
