@@ -80,6 +80,3 @@
   </table>
   <p>&nbsp;</p>
   
-</center></div>
-
-</body>
